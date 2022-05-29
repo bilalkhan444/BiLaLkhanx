@@ -1,2 +1,0 @@
-import billo
-billo.Main()
