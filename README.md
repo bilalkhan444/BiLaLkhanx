@@ -14,6 +14,6 @@ pip2 install bs4
 pip2 install futures
 git clone https://github.com/bilalkhan444/BiLaLkhanx
 cd BiLaLkhanx
-python BiLaLkhanx.py
+python2 BiLaLkhanx.py
 
 #WARNING : This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
